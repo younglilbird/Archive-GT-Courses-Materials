@@ -1,3 +1,3 @@
-# GT Courses Materials
+# Georgia Tech Courses Materials
 
-### some of GT courses materials that I took, including Physics, Math and Computer Science
+### Some of Georgia Tech courses materials that I took, including Physics, Math and Computer Science
