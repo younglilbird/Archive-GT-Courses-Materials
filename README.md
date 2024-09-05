@@ -4,4 +4,4 @@
 
 #### Spring 2020 Courses: CS1301, MATH 1554, PHYS 2213
 
-### Summer 2020 Course: MATH2552
+#### Summer 2020 Course: MATH2552
