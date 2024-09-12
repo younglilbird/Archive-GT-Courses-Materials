@@ -6,4 +6,4 @@
 
 #### Summer 2020 Course: MATH2552
 
-#### Fall 2020 Course: CS1331, MATH3215
+#### Fall 2020 Course: CS1331, MATH3215, PHYS3122
